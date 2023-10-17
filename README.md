@@ -98,6 +98,9 @@ Bachelor of Engineering in Computer Engineering
 #### Serverless Solutions
 - Azure Functions
 
+#### Hosting Solutions
+- Azure App Service
+  
 </br>
 
 ## :desktop_computer: Desktop (Winform) App Development :
