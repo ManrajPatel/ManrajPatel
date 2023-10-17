@@ -76,7 +76,7 @@ Bachelor of Engineering in Computer Engineering
 	- `Entity framework core` with MS SQL database. (Both `Db-first` and `code-first` approaches)
 	
 - `Frontend`: Angular
-	- Use `ngx-bootstrap` components
+	- Use `ngx-bootstrap`, `angular material` components
 	- Use of `observables`
 	- Use of angular `services`
 	- `Lazy loading` feature modules
