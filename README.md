@@ -59,10 +59,12 @@ Bachelor of Engineering in Computer Engineering
 
 </br>
 
+<!--
 ## :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ManrajPatel&show_icons=true)]()
 
-<!-- [![GitHub stats](https://github-readme-stats.vercel.app/api?username=ManrajPatel)]() -->
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ManrajPatel)]() 
+-->
 
 </br>
 
