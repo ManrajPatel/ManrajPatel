@@ -79,7 +79,7 @@ Bachelor of Engineering in Computer Engineering
    	- Logging and monitoring using Serilog and Seq
    	- Mediator Pattern: In-process communication using MediatR
    	- Inter-process communication using RabbitMQ
-   	- Handon knowledge of Duende Identity Server
+   	- Hands-on experience of Duende Identity Server
 	
 - `Frontend`: Angular
 	- Use `ngx-bootstrap`, `angular material` components
