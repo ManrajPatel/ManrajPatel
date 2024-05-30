@@ -76,10 +76,10 @@ Bachelor of Engineering in Computer Engineering
 	- `JWTBearer authentication` and role-based authorization. (Custom middleware and attribute implementation to customize authentication and authorization process)
 	- Centralized error handling using `custom middleware`.
 	- `Entity framework core` with MS SQL database. (Both `Db-first` and `code-first` approaches)
-   	- Logging and monitoring using Serilog and Seq
-   	- Mediator Pattern: In-process communication using MediatR
-   	- Inter-process communication using RabbitMQ
-   	- Hands-on experience of Duende Identity Server
+   	- Logging and monitoring using `Serilog and Seq`
+   	- Mediator Pattern: In-process communication using `MediatR`
+   	- Inter-process communication using `RabbitMQ
+   	- Hands-on experience of `Duende Identity Server`
 	
 - `Frontend`: Angular
 	- Use `ngx-bootstrap`, `angular material` components
@@ -98,8 +98,8 @@ Bachelor of Engineering in Computer Engineering
   	- User defined scalar and table functions
  
   - `Containerization`:
-  	- Containerize web app, api, database, event bus using docker container.
-   	- Use docker compose to orchastrate multi-container docker application. 	 	
+  	- Containerize web app, api, database, event bus using `docker` container.
+   	- Use `docker compose` to orchastrate multi-container docker application. 	 	
 
 </br>
 
