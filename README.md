@@ -78,7 +78,7 @@ Bachelor of Engineering in Computer Engineering
 	- `Entity framework core` with MS SQL database. (Both `Db-first` and `code-first` approaches)
    	- Logging and monitoring using `Serilog and Seq`
    	- Mediator Pattern: In-process communication using `MediatR`
-   	- Inter-process communication using `RabbitMQ
+   	- Inter-process communication using `RabbitMQ`
    	- Hands-on experience of `Duende Identity Server`
 	
 - `Frontend`: Angular
@@ -97,7 +97,7 @@ Bachelor of Engineering in Computer Engineering
 	- Transactions for data integrity
   	- User defined scalar and table functions
  
-  - `Containerization`:
+- `Containerization`:
   	- Containerize web app, api, database, event bus using `docker` container.
    	- Use `docker compose` to orchastrate multi-container docker application. 	 	
 
