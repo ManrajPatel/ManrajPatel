@@ -78,6 +78,8 @@ Bachelor of Engineering in Computer Engineering
 	- `Entity framework core` with MS SQL database. (Both `Db-first` and `code-first` approaches)
    	- Logging and monitoring using `Serilog and Seq`   	
 	
+- `Frontend`: Blazor WebAssembly
+  
 - `Frontend`: Angular
 	- Use `ngx-bootstrap`, `angular material` components
 	- Use of `observables`
