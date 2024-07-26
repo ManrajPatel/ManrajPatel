@@ -128,6 +128,7 @@ Bachelor of Engineering in Computer Engineering
 
 #### Hosting Solutions
 - Azure App Service
+  * Deploy web application to Azure App Service using GitHub Actions | CI/CD Pipeline 
   
 </br>
 
